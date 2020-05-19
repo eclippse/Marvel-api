@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca86a510af8f2dd1311a95e067fe1ea4",
+    "revision": "0897a5d5ac93b51f331d06e727747f47",
     "url": "/Marvel-api/index.html"
   },
   {
-    "revision": "5738af72d37be83b3bd8",
-    "url": "/Marvel-api/static/css/main.dfaed437.chunk.css"
+    "revision": "84dbfc55da57fc1dad11",
+    "url": "/Marvel-api/static/css/main.0d5b58bf.chunk.css"
   },
   {
-    "revision": "631eeb59d5ca03e4dc69",
-    "url": "/Marvel-api/static/js/2.4e0eec64.chunk.js"
+    "revision": "4c56a34cc4fd90686327",
+    "url": "/Marvel-api/static/js/2.f2ceaed7.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/Marvel-api/static/js/2.4e0eec64.chunk.js.LICENSE.txt"
+    "url": "/Marvel-api/static/js/2.f2ceaed7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5738af72d37be83b3bd8",
-    "url": "/Marvel-api/static/js/main.9a72794b.chunk.js"
+    "revision": "84dbfc55da57fc1dad11",
+    "url": "/Marvel-api/static/js/main.252d00f0.chunk.js"
   },
   {
     "revision": "dbc0dd7c3ddcced7d4a9",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "23846218973736a031ea0fd6cf36a042",
     "url": "/Marvel-api/static/media/Logo.23846218.webp"
+  },
+  {
+    "revision": "40470aefcd7438863c229b33f1443302",
+    "url": "/Marvel-api/static/media/borrar-negro.40470aef.svg"
+  },
+  {
+    "revision": "44f6124fd38d90b4fb1f37f717b29962",
+    "url": "/Marvel-api/static/media/borrar-rojo.44f6124f.svg"
   },
   {
     "revision": "d3d74b71ec2030076bb28ffa9972ec03",
