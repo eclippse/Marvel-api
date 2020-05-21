@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Marvel-api/static/css/main.36ea9bf7.chunk.css",
-    "main.js": "/Marvel-api/static/js/main.5aad0427.chunk.js",
-    "main.js.map": "/Marvel-api/static/js/main.5aad0427.chunk.js.map",
+    "main.css": "/Marvel-api/static/css/main.c032f2e5.chunk.css",
+    "main.js": "/Marvel-api/static/js/main.dffcbcfc.chunk.js",
+    "main.js.map": "/Marvel-api/static/js/main.dffcbcfc.chunk.js.map",
     "runtime-main.js": "/Marvel-api/static/js/runtime-main.3772bcfa.js",
     "runtime-main.js.map": "/Marvel-api/static/js/runtime-main.3772bcfa.js.map",
-    "static/js/2.f2ceaed7.chunk.js": "/Marvel-api/static/js/2.f2ceaed7.chunk.js",
-    "static/js/2.f2ceaed7.chunk.js.map": "/Marvel-api/static/js/2.f2ceaed7.chunk.js.map",
+    "static/js/2.0834a0fa.chunk.js": "/Marvel-api/static/js/2.0834a0fa.chunk.js",
+    "static/js/2.0834a0fa.chunk.js.map": "/Marvel-api/static/js/2.0834a0fa.chunk.js.map",
     "index.html": "/Marvel-api/index.html",
-    "precache-manifest.8d3088868eb2bf56d7e847bd9431bd1b.js": "/Marvel-api/precache-manifest.8d3088868eb2bf56d7e847bd9431bd1b.js",
+    "precache-manifest.ec2d0249d2b484d8d18063c45304594d.js": "/Marvel-api/precache-manifest.ec2d0249d2b484d8d18063c45304594d.js",
     "service-worker.js": "/Marvel-api/service-worker.js",
-    "static/css/main.36ea9bf7.chunk.css.map": "/Marvel-api/static/css/main.36ea9bf7.chunk.css.map",
-    "static/js/2.f2ceaed7.chunk.js.LICENSE.txt": "/Marvel-api/static/js/2.f2ceaed7.chunk.js.LICENSE.txt",
+    "static/css/main.c032f2e5.chunk.css.map": "/Marvel-api/static/css/main.c032f2e5.chunk.css.map",
+    "static/js/2.0834a0fa.chunk.js.LICENSE.txt": "/Marvel-api/static/js/2.0834a0fa.chunk.js.LICENSE.txt",
     "static/media/Logo.webp": "/Marvel-api/static/media/Logo.23846218.webp",
     "static/media/Heros.css": "/Marvel-api/static/media/superheroes.65d7de7c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3772bcfa.js",
-    "static/js/2.f2ceaed7.chunk.js",
-    "static/css/main.36ea9bf7.chunk.css",
-    "static/js/main.5aad0427.chunk.js"
+    "static/js/2.0834a0fa.chunk.js",
+    "static/css/main.c032f2e5.chunk.css",
+    "static/js/main.dffcbcfc.chunk.js"
   ]
 }
