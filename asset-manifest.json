@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Marvel-api/static/css/main.6c554af9.chunk.css",
-    "main.js": "/Marvel-api/static/js/main.b3fe571e.chunk.js",
-    "main.js.map": "/Marvel-api/static/js/main.b3fe571e.chunk.js.map",
+    "main.js": "/Marvel-api/static/js/main.a9b85324.chunk.js",
+    "main.js.map": "/Marvel-api/static/js/main.a9b85324.chunk.js.map",
     "runtime-main.js": "/Marvel-api/static/js/runtime-main.3772bcfa.js",
     "runtime-main.js.map": "/Marvel-api/static/js/runtime-main.3772bcfa.js.map",
     "static/js/2.f20c93dd.chunk.js": "/Marvel-api/static/js/2.f20c93dd.chunk.js",
     "static/js/2.f20c93dd.chunk.js.map": "/Marvel-api/static/js/2.f20c93dd.chunk.js.map",
     "index.html": "/Marvel-api/index.html",
-    "precache-manifest.1ad858f402396c6494bcc58458c35975.js": "/Marvel-api/precache-manifest.1ad858f402396c6494bcc58458c35975.js",
+    "precache-manifest.3856b1e946c7332db0db9cd4cacebae8.js": "/Marvel-api/precache-manifest.3856b1e946c7332db0db9cd4cacebae8.js",
     "service-worker.js": "/Marvel-api/service-worker.js",
     "static/css/main.6c554af9.chunk.css.map": "/Marvel-api/static/css/main.6c554af9.chunk.css.map",
     "static/js/2.f20c93dd.chunk.js.LICENSE.txt": "/Marvel-api/static/js/2.f20c93dd.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3772bcfa.js",
     "static/js/2.f20c93dd.chunk.js",
     "static/css/main.6c554af9.chunk.css",
-    "static/js/main.b3fe571e.chunk.js"
+    "static/js/main.a9b85324.chunk.js"
   ]
 }

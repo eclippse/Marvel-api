@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9eda8516626d1b3b96dfe9c0a43ae6ef",
+    "revision": "7fca95850c528ef8a58a768bc894edab",
     "url": "/Marvel-api/index.html"
   },
   {
-    "revision": "6c926b3ded78041a9cb6",
+    "revision": "713d05f5322b292bd487",
     "url": "/Marvel-api/static/css/main.6c554af9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Marvel-api/static/js/2.f20c93dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c926b3ded78041a9cb6",
-    "url": "/Marvel-api/static/js/main.b3fe571e.chunk.js"
+    "revision": "713d05f5322b292bd487",
+    "url": "/Marvel-api/static/js/main.a9b85324.chunk.js"
   },
   {
     "revision": "dbc0dd7c3ddcced7d4a9",
